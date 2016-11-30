@@ -1,1 +1,1 @@
-# my-firdt-blog
+# my-first-blog
